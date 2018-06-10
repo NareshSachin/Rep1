@@ -10,6 +10,8 @@ public class Demo {
 		
 		System.out.println("hello, how r u?");
 		System.out.println("bye bye...");
+		System.out.println("i am fine...");
+		
 		
 		wishMsg();
 		
