@@ -20,6 +20,9 @@ public class Demo {
 		cl.m1();
 		cl.m2();
 		
+		FourthMod fm=new FourthMod();
+		fm.m5();
+		
 	}
 
 }
