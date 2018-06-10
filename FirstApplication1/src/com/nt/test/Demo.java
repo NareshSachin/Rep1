@@ -28,6 +28,9 @@ public class Demo {
 		FourthMod fm=new FourthMod();
 		fm.m5();
 		
+		FifthMod f=new FifthMod();
+		f.m6();
+		
 	}
 
 }
