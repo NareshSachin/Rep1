@@ -20,6 +20,10 @@ public class Demo {
 		cl.m1();
 		cl.m2();
 		
+		
+		ThirdModification tm=new ThirdModification();
+		tm.m3();
+		tm.m4();
 	}
 
 }
